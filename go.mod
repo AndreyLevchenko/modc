@@ -1,3 +1,3 @@
-module github.com/andreylevchenko/modc
+module github.com/AndreyLevchenko/modc
 
 go 1.16
